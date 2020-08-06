@@ -1,0 +1,4 @@
+创建虚拟环境后，我们可以使用下面的命令来激活虚拟环境，如下所示（执行 deactivate 可以退出虚拟环境）：
+$ env\Scripts\activate  # Windows
+提示 如果你在 Windows 中使用 Git Bash，则需要使用. env/Scripts/activate 命令
+或：
